@@ -23,7 +23,7 @@ strum = "0.23"
 strum_macros = "0.23"
 tch = "0.15.0"
 thiserror = "1.0"
-tokenizers = "0.12.1"
+tokenizers = "0.15.2"
 torch-sys = "0.15.0"
 
 [dev-dependencies]
